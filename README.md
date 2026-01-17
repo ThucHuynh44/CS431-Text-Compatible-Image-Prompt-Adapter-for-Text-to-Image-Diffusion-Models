@@ -1,6 +1,6 @@
 # CS431 Project: Image Generation with Adapters
 
-This repository contains the source code, training scripts, and resources for the CS431 project. The project explores and implements **IP-Adapter**, **T2I-Adapter**, and **UniControlNet** for controlled image generation.
+This repository contains the source code, training configs, and resources for the CS431 project. The project explores and implements **IP-Adapter** and **UniControlNet** for controlled image generation.
 
 ## 📂 Repository Structure
 
