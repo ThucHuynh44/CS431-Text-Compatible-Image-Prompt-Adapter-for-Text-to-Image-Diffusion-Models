@@ -59,6 +59,10 @@ To execute the project training using the configurations above, refer to the fol
 2.  **Training UniControlNet:**
     Run `UniControlNet/src/train/train_global_adapter_diffusers.py` via `accelerate launch`.
 
+## 🎥 Demo Video
 
-<video src="Video_Demo.mp4" controls="controls" style="max-width: 730px;">
-</video>
+Xem video demo quá trình tạo ảnh:
+
+[![Xem Video Demo](Ảnh demo/human.jpg)](Video_Demo.mp4)
+
+*Nhấn vào hình ảnh để xem video.*
