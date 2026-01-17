@@ -1,0 +1,5 @@
+1. Tạo shortcut cho thư mục CS431 tại MyDrive
+2. Chạy file Demo.ipynb với GPU T4
+3. Nhấp vào link được tạo ra ở cell cuối cùng để demo
+4. Import ảnh và nhập text sau đó nhấn Genrate để tạo ảnh.
+Lưu ý: Có thể thay đổi mô hình tạo ảnh.
