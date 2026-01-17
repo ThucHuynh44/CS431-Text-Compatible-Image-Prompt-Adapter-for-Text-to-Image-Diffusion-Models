@@ -14,7 +14,7 @@ This repository contains the source code, training scripts, and resources for th
 
 ## 🔗 Model & Resources
 
-Pre-trained models, datasets, and checkpoints can be found here:
+Pre-trained models, datasets, video demo and checkpoints can be found here:
 👉 [**Google Drive Folder**](https://drive.google.com/drive/folders/1Eou2X4FloFdXRUU4SOOLSx4tQ6FsF6CF)
 
 ---
@@ -59,10 +59,4 @@ To execute the project training using the configurations above, refer to the fol
 2.  **Training UniControlNet:**
     Run `UniControlNet/src/train/train_global_adapter_diffusers.py` via `accelerate launch`.
 
-## 🎥 Demo Video
 
-Xem video demo quá trình tạo ảnh:
-
-[![Xem Video Demo](Ảnh demo/human.jpg)](Video_Demo.mp4)
-
-*Nhấn vào hình ảnh để xem video.*
